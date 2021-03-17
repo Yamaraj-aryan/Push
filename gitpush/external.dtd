@@ -1,0 +1,14 @@
+<!DOCTYPE employees SYSTEM "external.dtd">
+<employees>
+	<employee>
+		<name>Aditya Dahal</name>
+		<department>IT Department</department>
+		<address>Kamaladi</address>
+	</employee>
+	<employee>
+		<name>Prasanna Thapa</name>
+		<department>Busineess Department</department>
+		<phone>123456789</phone>
+		<phone>987654321</phone>
+	</employee>
+</employees>
